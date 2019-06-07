@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle tab-stopwatch",
+        "command": "tab-stopwatch:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tab-stopwatch",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "tab-stopwatch:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
