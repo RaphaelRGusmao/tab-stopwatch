@@ -3,11 +3,7 @@
   "main": "./lib/tab-stopwatch",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
-  "activationCommands": {
-    "atom-workspace": "tab-stopwatch:toggle"
-  },
+  "keywords": [],
   "repository": "https://github.com/atom/tab-stopwatch",
   "license": "MIT",
   "engines": {

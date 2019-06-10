@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle tab-stopwatch",
-        "command": "tab-stopwatch:toggle"
+        "label": "Update tab-stopwatch",
+        "command": "tab-stopwatch:update"
       }
     ]
   },
@@ -15,8 +15,8 @@
           "label": "tab-stopwatch",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "tab-stopwatch:toggle"
+              "label": "Update",
+              "command": "tab-stopwatch:update"
             }
           ]
         }

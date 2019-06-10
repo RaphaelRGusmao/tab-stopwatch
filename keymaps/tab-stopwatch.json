@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "tab-stopwatch:toggle"
+    "shift-alt-t": "tab-stopwatch:update"
   }
 }
